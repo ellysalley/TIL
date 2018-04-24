@@ -4,6 +4,6 @@ We learn something new every day; This is a repo to organize and share those lea
 
 Reference:
 
-https://github.com/thoughtbot/til
-https://www.reddit.com/r/todayilearned/
-https://github.com/milooy/TIL
+* https://github.com/thoughtbot/til
+* https://www.reddit.com/r/todayilearned/
+* https://github.com/milooy/TIL
