@@ -1,16 +1,25 @@
 * Installations 
-'''pip install pipenv
+```
+pip install pipenv
 or
 brew install pipenv
-
+```
 * virtual environment activation:
-'''pipenv shell
+```
+pipenv shell
+```
 
 * dependency install
-'''pipenv install [name]
+```
+pipenv install [name]
+```
 
 * python shell
-'''python manage.py shell
+```
+python manage.py shell
+```
 
 * sqlite3 db shell
-'''python manage.py dbshell
+```
+python manage.py dbshell
+```
