@@ -1,6 +1,6 @@
 ## 톨리노 비전2 루팅하며 배운 것
 
-1. [Android Platform Tools](https://developer.android.com/studio/releases/platform-tools?hl=ES#downloads) 설치
+1. [Android Platform Tools](https://developer.android.com/studio/releases/platform-tools) 설치
 
 - adb: android debug bridge, Unix shell을 제공
 - fastboot: 안드로이드 기기의 플래시 메모리에 직접 데이터를 쓰는 툴
